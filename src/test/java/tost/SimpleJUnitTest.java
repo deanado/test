@@ -1,3 +1,5 @@
+package tost;
+
 import org.junit.jupiter.api.*;
 
 public class SimpleJUnitTest {
